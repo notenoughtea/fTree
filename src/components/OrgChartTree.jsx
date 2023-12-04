@@ -1,7 +1,6 @@
 import React from 'react';
 import Tree from 'react-d3-tree';
 import './module.style.css'
-import node from '../assets/node.svg'
 
 // This is a simplified example of an org chart with a depth of 2.
 // Note how deeper levels are defined recursively via the `children` property.
