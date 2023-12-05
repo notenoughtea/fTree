@@ -9,7 +9,7 @@ const familyData = {
   name: 'Бора', gender: 'male', birthdate: 2000,
   children: [
     {
-      name: 'Боронай', gender: 'male', birthdate: 2000, 
+      name: 'Боронай', gender: 'male', birthdate: 2000,
       children: [
         {
           name: 'Къашык', gender: 'male', birthdate: 2000,
@@ -252,7 +252,7 @@ const familyData = {
                           ],
                         },
                         {
-                          name: 'Акътамакъ', gender: 'male', birthdate: 2000,
+                          name: 'Акътамакъ', gender: 'female', birthdate: 2000,
                           children: [
                             {
                               name: 'Сулахат', gender: 'female', birthdate: 2000,
