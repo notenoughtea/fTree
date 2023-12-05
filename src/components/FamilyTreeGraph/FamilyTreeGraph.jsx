@@ -234,6 +234,13 @@ const familyData = {
                                   name: 'Элен', gender: 'female', birthdate: 2000,
                                   children: [
 
+
+                                    {
+                                      name: 'Ибрагим', gender: 'male', birthdate: 2000,
+                                      children: [
+    
+                                      ],
+                                    },
                                   ],
                                 },
                                 {
