@@ -1,0 +1,29 @@
+.memberCard {
+  display: flex;
+  flex-direction: column;
+  width: 170px;
+  background-color: rgba(31, 3, 95, 0.844);
+  border-radius: 20px;
+  align-content: space-between;
+}
+
+.memberCard img {
+  margin: 0px;
+}
+
+.memberdetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.memberdetails h4 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.memberdetails p {
+  font-size: 14px;
+  margin: 0;
+}

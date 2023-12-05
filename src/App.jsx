@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import './App.css'
-import OrgChartTree from './components/OrgChartTree'
+import Tree from './components/FamilyTreeGraph/FamilyTreeGraph'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-        <OrgChartTree/>
+      <Tree/>
     </>
   )
 }
