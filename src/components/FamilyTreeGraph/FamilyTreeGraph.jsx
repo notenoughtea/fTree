@@ -210,16 +210,16 @@ const familyData = {
                               name: 'Тауджан', gender: 'female', birthdate: 2000,
                             },
                             {
-                              name: 'Рамазан', gender: 'male', birthdate: 2000,
+                              name: 'Рамазан', gender: 'male', birthdate: 1959,
                               children: [
                                 {
-                                  name: 'Алан', gender: 'male', birthdate: 2000,
+                                  name: 'Алан', gender: 'male', birthdate: 1993,
                                   children: [
 
                                   ],
                                 },
                                 {
-                                  name: 'Алина', gender: 'female', birthdate: 2000,
+                                  name: 'Алина', gender: 'female', birthdate: 1995,
                                   children: [
 
                                   ],
@@ -227,18 +227,18 @@ const familyData = {
                               ],
                             },
                             {
-                              name: 'Халит', gender: 'male', birthdate: 2000,
+                              name: 'Халит', gender: 'male', birthdate: 1970,
                               children: [
 
                                 {
-                                  name: 'Элен', gender: 'female', birthdate: 2000,
+                                  name: 'Элен', gender: 'female', birthdate: 1995,
                                   children: [
 
 
                                     {
-                                      name: 'Ибрагим', gender: 'male', birthdate: 2000,
+                                      name: 'Ибрагим', gender: 'male', birthdate: 2020,
                                       children: [
-    
+
                                       ],
                                     },
                                   ],
